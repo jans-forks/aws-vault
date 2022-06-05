@@ -189,6 +189,11 @@ If you're looking to configure the amount of time between having to enter your K
 
 ![keychain-image](https://imgur.com/ARkr5Ba.png)
 
+### Windows Credential Manager & WSL2
+--WIP--
+If you are using WSL2 and would like to make use of Windows Credential Manager backend simply use windows version of aws-vault.
+Pick one of the [releases](https://github.com/99designs/aws-vault/releases) `aws-vault-windows-*`. 
+
 
 ## Managing credentials
 
